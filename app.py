@@ -14,4 +14,4 @@ if __name__ == "__main__":
 
     nome = input("Digite seu nome: ")
 
-    print(saudacao(nome))
+    print(saudacao("Seu nome é:", nome))
